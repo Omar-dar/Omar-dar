@@ -42,7 +42,15 @@ I’m **Omar**, a software engineering student passionate about building **mobil
 
 ## 📊 GitHub Stats
 
-![snake animation](https://raw.githubusercontent.com/Omar-dar/Omar-dar/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Omar-dar&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Omar-dar&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omar-dar&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
 
 ---
 
