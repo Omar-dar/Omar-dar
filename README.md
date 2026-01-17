@@ -2,7 +2,7 @@
 
 # Omar Darwish 👋  
 **Software Engineering & Management @ University of Gothenburg**  
-📱 Flutter Developer • 🎨 UI/UX (Figma) • 🚀 Always building
+📱 Flutter Developer • 🎨 UI/UX (Figma) • 🚀 Always building  
 
 <p>
   <a href="mailto:omarkd2012@hotmail.com">
@@ -10,9 +10,6 @@
   </a>
   <a href="https://www.linkedin.com">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/Omar-darw">
-    <img src="https://img.shields.io/badge/GitHub-Omar--darw-black?style=flat&logo=github&logoColor=white" />
   </a>
 </p>
 
@@ -22,11 +19,11 @@
 
 ## 👨‍💻 About Me
 
-I’m Omar, a Software Engineering & Management student who loves building **mobile apps with Flutter** and designing clean experiences with **Figma**.
+I’m **Omar**, a software engineering student passionate about building **mobile apps using Flutter** and designing smooth experiences with **Figma**.
 
-- 🔭 Currently improving my Flutter projects & architecture
-- 🌱 Learning more about backend + full-stack development
-- 🤝 Open to collaborating on real-world mobile projects
+- 🔭 Working on Flutter projects and improving architecture  
+- 🌱 Learning backend + full-stack development  
+- 🤝 Open to collaborations and internship opportunities  
 
 ---
 
@@ -43,14 +40,6 @@ I’m Omar, a Software Engineering & Management student who loves building **mob
 
 ---
 
-## 📌 Featured Projects
-
-- 📱 **Flutter App (Coming Soon)** — clean UI + real features  
-- 🎨 **UI Concepts (Figma)** — mobile prototypes & layouts  
-- 🛠️ **University Projects** — Java/Python/C++ problem-solving + teamwork  
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -60,24 +49,15 @@ I’m Omar, a Software Engineering & Management student who loves building **mob
 
 ---
 
-## 🎮 Contribution Animation (GitLab)
+## 🐍 Contribution Snake
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-      srcset="https://gitlab.com/Omar-dar/Omar-dar/-/raw/main/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)"
-      srcset="https://gitlab.com/Omar-dar/Omar-dar/-/raw/main/output/pacman-contribution-graph-light.svg">
-    <img alt="Pacman contribution graph"
-      src="https://gitlab.com/Omar-dar/Omar-dar/-/raw/main/output/pacman-contribution-graph-light.svg">
-  </picture>
-</p>
+![snake animation](https://github.com/Omar-darw/Omar-darw/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
 ## 📬 Contact
 
-- 📧 **Email:** omarkd2012@hotmail.com  
-- 💼 **LinkedIn:** https://www.linkedin.com  
+- 📧 Email: **omarkd2012@hotmail.com**
+- 💼 LinkedIn: https://www.linkedin.com
 
 > “Build what you love, and you'll love what you build.”
