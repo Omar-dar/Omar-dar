@@ -44,13 +44,14 @@ I’m **Omar**, a software engineering student passionate about building **mobil
 
 <div align="center">
 
-![Omar's GitHub Stats](https://raw.githubusercontent.com/Omar-dar/Omar-dar/main/assets/github-stats.svg)
+![Omar's GitHub Stats](https://raw.githubusercontent.com/Omar-dar/Omar-dar/main/assets/github-stats.svg?v=1)
 
 <br/>
 
-![Top Langs](https://raw.githubusercontent.com/Omar-dar/Omar-dar/main/assets/top-langs.svg)
+![Top Langs](https://raw.githubusercontent.com/Omar-dar/Omar-dar/main/assets/top-langs.svg?v=1)
 
 </div>
+
 
 ---
 
