@@ -5,15 +5,18 @@ on:
     - cron: "0 0 * * *"   # every day
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: vn7n24fzkq/github-profile-summary-cards@release
+      - name: Generate GitHub Profile Summary Cards
+        uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           USERNAME: Omar-dar
-          BRANCH: main
-          THEME: github_dark
-
+          BRANCH_NAME: main
+          AUTO_PUSH: true
