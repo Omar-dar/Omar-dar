@@ -43,12 +43,12 @@ I’m **Omar**, a software engineering student passionate about building **mobil
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Omar-dar&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Omar-dar&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Omar-dar&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true" />
+  <img height="165" src="https://streak-stats.demolab.com?user=Omar-dar&amp;theme=tokyonight&amp;hide_border=true" />
 </p>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omar-dar&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omar-dar&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" />
 </p>
 
 
