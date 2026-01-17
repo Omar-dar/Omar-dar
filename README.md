@@ -46,12 +46,11 @@ I’m **Omar**, a software engineering student passionate about building **mobil
 
 ![Omar's GitHub Stats](https://raw.githubusercontent.com/Omar-dar/Omar-dar/main/assets/github-stats.svg)
 
+<br/>
+
 ![Top Langs](https://raw.githubusercontent.com/Omar-dar/Omar-dar/main/assets/top-langs.svg)
 
 </div>
-
-
-
 
 ---
 
