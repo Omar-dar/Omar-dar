@@ -10,14 +10,15 @@
 
 ### GitHub Stats
 
-<p align="start">
+<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Omar-dar&theme=tokyonight" />
 </p>
 
-<p align="start">
+<p align="center">
   <img height="170" src="https://github-readme-stats-delta-sand-52.vercel.app/api?username=Omar-dar&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=default" />
   <img height="170" src="https://github-readme-stats-delta-sand-52.vercel.app/api/top-langs/?username=Omar-dar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
+
 
 ---
 
@@ -25,7 +26,7 @@
 <p align="start">
   <img src="https://skillicons.dev/icons?i=js,flutter,dart,nodejs,java,cpp,cs,docker,postgres,firebase,mongodb,git,figma,python,html,css,php,arduino&perline=17" />
 </p>
----
+
 
 ### Currently Exploring
 
