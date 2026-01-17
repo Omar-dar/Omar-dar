@@ -42,16 +42,13 @@ I’m **Omar**, a software engineering student passionate about building **mobil
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Omar-darw&show_icons=true&theme=tokyonight" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omar-darw&layout=compact&theme=tokyonight" />
-</p>
+![snake animation](https://raw.githubusercontent.com/Omar-dar/Omar-dar/output/github-contribution-grid-snake.svg)
 
 ---
 
 ## 🐍 Contribution Snake
 
-![snake animation](https://github.com/Omar-darw/Omar-darw/blob/output/github-contribution-grid-snake.svg)
+![snake animation](https://raw.githubusercontent.com/Omar-dar/Omar-dar/output/github-contribution-grid-snake.svg)
 
 ---
 
