@@ -1,61 +1,83 @@
-# Hi there, I'm Omar Darwish
+<div align="center">
 
-- Software Engineering and Management student at University of Gothenburg  
-- Passionate about mobile app development with Flutter  
-- Always learning, building, and collaborating!
+# Omar Darwish 👋  
+**Software Engineering & Management @ University of Gothenburg**  
+📱 Flutter Developer • 🎨 UI/UX (Figma) • 🚀 Always building
 
----
+<p>
+  <a href="mailto:omarkd2012@hotmail.com">
+    <img src="https://img.shields.io/badge/Email-omarkd2012%40hotmail.com-informational?style=flat&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Omar-darw">
+    <img src="https://img.shields.io/badge/GitHub-Omar--darw-black?style=flat&logo=github&logoColor=white" />
+  </a>
+</p>
 
-## About Me
-
-I’m a curious and ambitious software engineering student with a deep passion for tech and programming. Outside of my academic work, I love designing and building mobile apps using **Flutter**, and experimenting with UI/UX in **Figma**.
-
-I also bring real-world experience in fast-paced environments, where I honed my collaboration, problem-solving, and communication skills.
-
----
-
-## Tech Stack
-
-- **Languages:** Java, Python, JavaScript, C, C++, HTML, CSS, Kotlin  
-- **Frameworks & Tools:** Flutter, Figma, Git, GitHub  
-- **Interests:** Mobile development, user-centered design, full-stack development
+</div>
 
 ---
 
-## GitHub Stats
+## 👨‍💻 About Me
 
-![Omar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Omar-darw&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Omar-darw&layout=compact&theme=radical)
+I’m Omar, a Software Engineering & Management student who loves building **mobile apps with Flutter** and designing clean experiences with **Figma**.
 
-
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-
-
-
-## Projects
-
-- **[MyMobileApp (coming soon)](#)** – A Flutter-based app with clean UI and user-focused features.
-- **[UI Concepts in Figma (WIP)](#)** – Prototypes and wireframes for mobile designs.
-- More projects coming as I make them public – stay tuned!
+- 🔭 Currently improving my Flutter projects & architecture
+- 🌱 Learning more about backend + full-stack development
+- 🤝 Open to collaborating on real-world mobile projects
 
 ---
 
-## Contact Me
+## 🧰 Tech Stack
 
-- [omarkd2012@hotmail.com](mailto:omarkd2012@hotmail.com)
-- [LinkedIn](https://www.linkedin.com)
+<p>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+</p>
 
 ---
+
+## 📌 Featured Projects
+
+- 📱 **Flutter App (Coming Soon)** — clean UI + real features  
+- 🎨 **UI Concepts (Figma)** — mobile prototypes & layouts  
+- 🛠️ **University Projects** — Java/Python/C++ problem-solving + teamwork  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Omar-darw&show_icons=true&theme=tokyonight" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omar-darw&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🎮 Contribution Animation (GitLab)
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://gitlab.com/Omar-dar/Omar-dar/-/raw/main/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://gitlab.com/Omar-dar/Omar-dar/-/raw/main/output/pacman-contribution-graph-light.svg">
+    <img alt="Pacman contribution graph"
+      src="https://gitlab.com/Omar-dar/Omar-dar/-/raw/main/output/pacman-contribution-graph-light.svg">
+  </picture>
+</p>
+
+---
+
+## 📬 Contact
+
+- 📧 **Email:** omarkd2012@hotmail.com  
+- 💼 **LinkedIn:** https://www.linkedin.com  
 
 > “Build what you love, and you'll love what you build.”
-
