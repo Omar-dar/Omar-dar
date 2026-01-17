@@ -2,7 +2,7 @@
 
 # Omar Darwish 👋  
 **Software Engineering & Management @ University of Gothenburg**  
-📱 Flutter Developer • 🎨 UI/UX (Figma) • 🚀 Always building  
+Flutter Developer • UI/UX (Figma) • Always building  
 
 <p>
   <a href="mailto:omarkd2012@hotmail.com">
@@ -17,17 +17,17 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 I’m **Omar**, a software engineering student passionate about building **mobile apps using Flutter** and designing smooth experiences with **Figma**.
 
-- 🔭 Working on Flutter projects and improving architecture  
-- 🌱 Learning backend + full-stack development  
-- 🤝 Open to collaborations and internship opportunities  
+- Working on Flutter projects and improving architecture  
+- Learning backend + full-stack development  
+- Open to collaborations and internship opportunities  
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 <p>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/>
@@ -40,11 +40,11 @@ I’m **Omar**, a software engineering student passionate about building **mobil
 
 ---
 
-## 📊 GitHub Stats
+## Stats
 
 <div align="center">
 
-![Omar's GitHub Stats](https://github-readme-stats-delta-sand-52.vercel.app/api?username=Omar-dar&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
+![Omar's GitHub Stats](https://github-readme-stats-delta-sand-52.vercel.app/api?username=Omar-dar&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=percentile)
 
 <br/>
 
@@ -56,15 +56,15 @@ I’m **Omar**, a software engineering student passionate about building **mobil
 
 ---
 
-## 🐍 Contribution Snake
+## Contribution
 
 ![snake animation](https://raw.githubusercontent.com/Omar-dar/Omar-dar/output/github-contribution-grid-snake.svg)
 
 ---
 
-## 📬 Contact
+## Contact
 
-- 📧 Email: **omarkd2012@hotmail.com**
-- 💼 LinkedIn: https://www.linkedin.com
+- Email: **omarkd2012@hotmail.com**
+- LinkedIn: https://www.linkedin.com
 
 > “Build what you love, and you'll love what you build.”
