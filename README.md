@@ -22,11 +22,9 @@
 ---
 
 ### Languages & Tools
-
 <p align="start">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,java,python,javascript,html,css,git,github,figma&perline=10" />
+  <img src="https://skillicons.dev/icons?i=js,flutter,dart,nodejs,java,cpp,cs,docker,postgres,firebase,mongodb,git,figma,python,html,arduino&perline=17" />
 </p>
-
 ---
 
 ### Currently Exploring
