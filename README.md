@@ -44,7 +44,7 @@ I’m **Omar**, a software engineering student passionate about building **mobil
 
 <div align="center">
 
-![Omar's GitHub Stats](https://github-readme-stats-delta-sand-52.vercel.app/api?username=Omar-dar&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=percentile)
+![Omar's GitHub Stats](https://github-readme-stats-delta-sand-52.vercel.app/api?username=Omar-dar&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=default)
 
 <br/>
 
