@@ -1,1 +1,31 @@
+name: Update GitHub Stats Cards
+
+on:
+  schedule:
+    - cron: "0 3 * * *"  # daily
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Download stats SVGs
+        run: |
+          mkdir -p assets
+          curl -L "https://github-readme-stats.vercel.app/api?username=Omar-dar&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" -o assets/github-stats.svg
+          curl -L "https://github-readme-stats.vercel.app/api/top-langs/?username=Omar-dar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" -o assets/top-langs.svg
+
+      - name: Commit & push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add assets/github-stats.svg assets/top-langs.svg
+          git commit -m "Update stats cards" || echo "No changes"
+          git push
 

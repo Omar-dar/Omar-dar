@@ -44,11 +44,12 @@ I’m **Omar**, a software engineering student passionate about building **mobil
 
 <div align="center">
 
-![Omar's GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Omar-dar&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
+![Omar's GitHub Stats](https://raw.githubusercontent.com/Omar-dar/Omar-dar/main/assets/github-stats.svg)
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Omar-dar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+![Top Langs](https://raw.githubusercontent.com/Omar-dar/Omar-dar/main/assets/top-langs.svg)
 
 </div>
+
 
 
 
