@@ -43,9 +43,14 @@ I’m **Omar**, a software engineering student passionate about building **mobil
 ## Stats
 
 <p align="center">
+  <img src="./profile-summary-card-output/github_dark/0-profile-details.png" />
+</p>
+
+<p align="center">
   <img height="170" src="https://github-readme-stats-delta-sand-52.vercel.app/api?username=Omar-dar&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=default" />
   <img height="170" src="https://github-readme-stats-delta-sand-52.vercel.app/api/top-langs/?username=Omar-dar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
+
 
 
 
