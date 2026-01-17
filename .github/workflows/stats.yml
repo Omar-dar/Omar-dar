@@ -2,7 +2,7 @@ name: Update GitHub Stats Cards
 
 on:
   schedule:
-    - cron: "0 3 * * *"  # daily
+    - cron: "0 3 * * *" # daily
   workflow_dispatch:
 
 permissions:
@@ -15,29 +15,49 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v4
 
-      - name: Download stats SVGs (fallback + validation)
+      - name: Download stats SVGs (strict validation + fallback)
         run: |
           set -e
           mkdir -p assets
 
-          download() {
+          is_valid_svg() {
+            # valid if file starts with <svg OR <?xml ... <svg
+            head -n 5 "$1" | grep -qiE '^\s*<svg|^\s*<\?xml'
+          }
+
+          download_svg() {
             URL="$1"
             OUT="$2"
+            echo "Downloading: $URL"
             curl -L --fail -A "Mozilla/5.0" -H "Accept: image/svg+xml" "$URL" -o "$OUT"
-            if ! grep -q "<svg" "$OUT"; then
-              echo "INVALID SVG at $OUT"
+
+            # Hard validation: must look like a real SVG file at the top
+            if ! is_valid_svg "$OUT"; then
+              echo "❌ NOT A VALID SVG (showing first 20 lines):"
               head -n 20 "$OUT"
               return 1
             fi
+
+            # Also ensure there's actually an <svg tag somewhere
+            if ! grep -qi "<svg" "$OUT"; then
+              echo "❌ No <svg tag found"
+              head -n 20 "$OUT"
+              return 1
+            fi
+
+            echo "✅ Valid SVG saved to $OUT"
           }
 
-          # Stats card (primary -> mirror fallback)
-          download "https://github-readme-stats.vercel.app/api?username=Omar-dar&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" "assets/github-stats.svg" \
-          || download "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Omar-dar&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" "assets/github-stats.svg"
+          # Delete old files first so we never keep broken ones
+          rm -f assets/github-stats.svg assets/top-langs.svg
 
-          # Top languages (primary -> mirror fallback)
-          download "https://github-readme-stats.vercel.app/api/top-langs/?username=Omar-dar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" "assets/top-langs.svg" \
-          || download "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Omar-dar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" "assets/top-langs.svg"
+          # Stats card: primary -> mirror fallback
+          download_svg "https://github-readme-stats.vercel.app/api?username=Omar-dar&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" "assets/github-stats.svg" \
+          || download_svg "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Omar-dar&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" "assets/github-stats.svg"
+
+          # Languages card: primary -> mirror fallback
+          download_svg "https://github-readme-stats.vercel.app/api/top-langs/?username=Omar-dar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" "assets/top-langs.svg" \
+          || download_svg "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Omar-dar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" "assets/top-langs.svg"
 
       - name: Commit & push changes
         run: |
