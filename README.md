@@ -23,7 +23,7 @@
 
 ### Languages & Tools
 <p align="start">
-  <img src="https://skillicons.dev/icons?i=js,flutter,dart,nodejs,java,cpp,cs,docker,postgres,firebase,mongodb,git,figma,python,html,arduino&perline=17" />
+  <img src="https://skillicons.dev/icons?i=js,flutter,dart,nodejs,java,cpp,cs,docker,postgres,firebase,mongodb,git,figma,python,html,css,php,arduino&perline=17" />
 </p>
 ---
 
