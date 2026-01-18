@@ -2,7 +2,7 @@
 
 <p align="start">
   I'm <strong>Omar Darwish</strong>, a Software Engineering & Management student at <strong>University of Gothenburg</strong>.<br />
-  I'm passionate about building mobile apps with <strong>Flutter</strong> and designing smooth user experiences with <strong>Figma</strong>.<br />
+  I'm passionate about building mobile apps and designing smooth user experiences with <strong>Figma</strong>.<br />
   Always learning, always building.
 </p>
 
