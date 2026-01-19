@@ -11,7 +11,7 @@
 ### GitHub Stats
 
 <p align="center">
-  <img src="[https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Omar-dar&theme=tokyonight](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Omar-dar&theme=dracula)" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Omar-dar&theme=tokyonight](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Omar-dar&theme=dracula" />
 </p>
 
 <p align="center">
