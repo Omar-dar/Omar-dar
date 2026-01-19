@@ -11,9 +11,8 @@
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Omar-dar&theme=dracula" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Omar-dar&theme=github_dark" />
 </p>
-
 
 <p align="center">
   <img height="170" src="https://github-readme-stats-delta-sand-52.vercel.app/api?username=Omar-dar&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true&include_all_commits=true&count_private=true" />
