@@ -10,20 +10,14 @@
 
 ### GitHub Stats
 
-<p align="center">
+<p align="start">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Omar-dar&theme=tokyonight" />
 </p>
 
-<p align="center">
+<p align="start">
   <img height="170" src="https://github-readme-stats-delta-sand-52.vercel.app/api?username=Omar-dar&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true&include_all_commits=true&count_private=true" />
   <img height="170" src="https://github-readme-stats-delta-sand-52.vercel.app/api/top-langs/?username=Omar-dar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&count_private=true" />
 </p>
-
-
-
-
-
-
 
 ---
 
