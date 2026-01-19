@@ -15,15 +15,15 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Omar-dar&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Omar-dar&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats-delta-sand-52.vercel.app/api?username=Omar-dar&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true&include_all_commits=true&count_private=true" />
+  <img height="170" src="https://streak-stats.demolab.com/?user=Omar-dar&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Omar-dar&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Omar-dar&theme=tokyonight&utcOffset=1" />
+  <img height="170" src="https://github-readme-stats-delta-sand-52.vercel.app/api/top-langs/?username=Omar-dar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&count_private=true" />
 </p>
->
+
+
 
 
 
