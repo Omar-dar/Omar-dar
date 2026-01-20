@@ -51,7 +51,7 @@
 
 ---
 
-### Contribution Snake
+### Contribution
 
 <p align="start">
   <img src="https://raw.githubusercontent.com/Omar-dar/Omar-dar/output/github-contribution-grid-snake.svg" />
