@@ -1,4 +1,4 @@
-<h2 align="start">Hey there! 👋</h2>
+<h2 align="start">Hey there!</h2>
 
 <p align="start">
   I'm <strong>Omar Darwish</strong>, a Software Engineering & Management student at the <strong>University of Gothenburg</strong>, graduating in 2026.<br />
