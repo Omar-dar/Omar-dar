@@ -5,17 +5,6 @@
   I enjoy building full stack applications, AI powered systems, mobile apps, and modern web platforms. My work combines software engineering, product thinking, user experience, and practical problem solving.
 </p>
 
-<p align="start">
-  I recently completed my bachelor's thesis in collaboration with <strong>Mycronic AB</strong>, where I designed and evaluated an ETL architecture for cleanroom manufacturing data integration. The project focused on system architecture, data pipelines, requirements analysis, traceability, and software engineering methods in an industrial environment.
-</p>
-
-<p align="start">
-  Outside my studies, I work on personal projects that help me explore different areas of software development. These include AI assistants, e-commerce platforms, mobile applications, Unity games, portfolio systems, and backend services. I like building projects from idea to implementation and improving them through testing, feedback, and iteration.
-</p>
-
-<p align="start">
-  My current focus is becoming a stronger full stack developer while continuing to explore AI, system design, cloud technologies, and game development.
-</p>
 
 ---
 
