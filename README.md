@@ -29,7 +29,7 @@
 
 ### Featured Projects
 
-- <strong>Tild</strong> - AI assistant platform with memory systems, multilingual support, authentication and administrative dashboard
+- <strong>Beru</strong> - AI assistant platform with memory systems, multilingual support, authentication and administrative dashboard
 - <strong>Treely</strong> - E-commerce platform for handcrafted furniture and home decor with product pages, shopping cart and responsive design
 - <strong>Bachelor Thesis with Mycronic AB</strong> - ETL architecture for cleanroom manufacturing data integration
 - <strong>Portfolio Website</strong> - Personal portfolio platform with project management, multilingual content and admin tools
